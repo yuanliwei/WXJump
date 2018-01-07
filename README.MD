@@ -23,7 +23,7 @@ http.createServer(function(req, res){
   var time = req.url.split('/')
   time=time[time.length-1]
   console.log('input swipe 320 410 320 410 ' + time);
-  rocess.stdin.write('input swipe 320 410 320 410 ' + time + '\n')
+  process.stdin.write('input swipe 320 410 320 410 ' + time + '\n')
 }).listen(PORT);
 
 ```
