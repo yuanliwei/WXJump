@@ -1,5 +1,11 @@
 # 跳一跳辅助程序
 
+## `MediaProjectionManager` 截图
+
+## `'adb shell input swipe 320 410 320 410' + time` 跳
+
+## sample.gif
+![sample.gif](https://raw.githubusercontent.com/yuanliwei/WXJump/master/img/sample.gif)
 
 ## Server.js
 ```javascript
